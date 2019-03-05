@@ -1,0 +1,11 @@
+---
+#Config by Scamnex
+#»2019 | NoHunger | Scamnex
+
+#You can turn hunger on and off
+#Use true or fase
+
+no_hunger: "true"
+
+
+...
