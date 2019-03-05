@@ -6,7 +6,7 @@ use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerExhaustEvent;
 use pocketmine\plugin\PluginBase;
 use pocketmine\utils\Config;
-class NoHunger extends PluginBase implements Listener {
+class Main extends PluginBase implements Listener {
     public function onEnable() {
         $this->getServer()->getPluginManager()->registerEvents($this, $this);
     }
